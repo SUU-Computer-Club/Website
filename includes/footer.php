@@ -2,9 +2,6 @@
 </td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
 
 </div>
 <div id="footer">

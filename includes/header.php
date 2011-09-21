@@ -1,5 +1,7 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="utf-8" />
 <title>Computer Club @ SUU</title>
 <link href="images/shortcuticon.jpg" rel="shortcut icon"
 	type="image/x-icon" />
@@ -9,7 +11,7 @@
 <body>
 	<div id="header">
 		<a href="index.php"><img class="fluidimage" src="images/headerpic.png"
-			align="left" height="100px">
+			height="100" alt="Computer Club @ SUU">
 		</a>
 	</div>
 	<div id="main">

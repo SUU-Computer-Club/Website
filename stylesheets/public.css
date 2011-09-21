@@ -159,7 +159,7 @@ ul.pages {
 	background: #FAFAFA;
 	background-image: url("../images/background.png");
 	background-position: 50% 50%;
-	background-repeat: none;
+	background-repeat: no-repeat;
 }
 
 #page h2 {
@@ -172,18 +172,18 @@ ul.pages {
 }
 
 /* Text Table */
-#text {
+.text {
 	padding-left: 2em;
 	padding-right: 2em;
 	vertical-align: top;
 }
 
-#text h2 {
+.text h2 {
 	color: #003399;
 	margin-top: 1em;
 }
 
-#text h3 {
+.text h3 {
 	color: #003399;
 }
 
@@ -194,4 +194,13 @@ dt {
 dd {
 	margin-bottom: 20px;
 	padding-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+table.centered {
+    margin-left: auto;
+    margin-right: auto;
 }

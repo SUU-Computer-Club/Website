@@ -1,9 +1,7 @@
 <?php require_once("includes/functions.php"); ?>
 <?php include("includes/header.php"); ?>
 
-<center>
 	<h2>Club Projects</h2>
-</center>
 <br />
 Current Projects
 <ul>

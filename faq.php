@@ -1,9 +1,7 @@
 <?php require_once("includes/functions.php"); ?>
 <?php include("includes/header.php"); ?>
 
-<center>
 	<h2>Frequently Asked Questions</h2>
-</center>
 <br/><br/><br/>
 <dl>
 	<dt>What do I have to know about computers to join?</dt>
