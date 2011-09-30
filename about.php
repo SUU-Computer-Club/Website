@@ -38,7 +38,7 @@
                 Science<br />Faculty Advisor</td>
         </tr>
         <tr>
-            <td>Tells freshmen why their passwords stink.</td>
+            <td class="text">Tells freshmen why their passwords stink.</td>
         </tr>
     </table>
 <?php include("includes/footer.php"); ?>
