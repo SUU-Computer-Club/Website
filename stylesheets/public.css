@@ -163,6 +163,10 @@ a:hover {
 	vertical-align: top;
 }
 
+.about-desc {
+    font-style: italic;
+}
+
 dt {
 	font-weight: bold;
 }

@@ -6,13 +6,11 @@
     <td class="text" colspan="4">Computer Club Officers</td>
   </tr>
   <tr>
-    <td></td>
     <td><img src="images/Iain_Dalton.png" width="200" alt=""></td>
     <td><img src="images/Brad_Walbeck.png" width="200" alt=""></td>
     <td><img src="images/Jared_Adams.png" width="200" alt=""></td>
   </tr>
   <tr>
-    <td></td>
     <td class="text">Iain Dalton<br />
     Club Co-President</td>
     <td class="text">Brad Walbeck<br />
@@ -20,11 +18,10 @@
     <td class="text">Jared Adams<br />
     Vice President</td>
   </tr>
-  <tr>
-    <td>Info</td>
+  <tr class="about-desc">
     <td class="text">Quiet. New hair cut this year!!!!</td>
     <td class="text">Wears hats all the time when dry. Hates Apple.</td>
-    <td class="text"><i>Unknown...</i></td>
+    <td class="text">Unknown...</td>
   </tr>
 </table>
 <table class=centered>
@@ -36,7 +33,7 @@
     Assistant Professor of Computer Science<br />
     Faculty Advisor</td>
   </tr>
-  <tr>
+  <tr class="about-desc">
     <td class="text">Tells freshmen why their passwords stink.</td>
   </tr>
 </table>
