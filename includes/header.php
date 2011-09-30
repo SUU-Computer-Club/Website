@@ -20,11 +20,11 @@
     <table id="structure">
       <tr>
         <td id="navigation">
-          <a href=\"index.php\">Home</a><br /> <br />
-          <a href=\"schedule.php\">Calendar of Events</a><br /> <br />
-          <a href=\"projects.php\">Projects</a><br /> <br />
-          <a href=\"constitution.php\">Our Constitution</a><br /> <br />
-          <a href=\"faq.php\">Frequently Asked Questions</a><br /> <br />
-          <a href=\"about.php\">About the Computer Club</a><br /> <br />
+          <a href="index.php">Home</a><br /> <br />
+          <a href="schedule.php">Calendar of Events</a><br /> <br />
+          <a href="projects.php">Projects</a><br /> <br />
+          <a href="constitution.php">Our Constitution</a><br /> <br />
+          <a href="faq.php">Frequently Asked Questions</a><br /> <br />
+          <a href="about.php">About the Computer Club</a><br /> <br />
         </td>
         <td id="page">
