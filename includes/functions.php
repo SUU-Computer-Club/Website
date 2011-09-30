@@ -16,13 +16,4 @@ function mysql_prep( $value ) { // This function cleans text entered by users fo
     return $value;
 }
 
-function nav_bar() { //Displays list of links for site navigation
-    echo "<a href=\"index.php\">Home</a><br /> <br />";
-    echo "<a href=\"schedule.php\">Calendar of Events</a><br /> <br />";
-    echo "<a href=\"projects.php\">Projects</a><br /> <br />";
-    echo "<a href=\"constitution.php\">Our Constitution</a><br /> <br />";
-    echo "<a href=\"faq.php\">Frequently Asked Questions</a><br /> <br />";
-    echo "<a href=\"about.php\">About the Computer Club</a><br /> <br />";
-}
-
 ?>
