@@ -20,7 +20,7 @@
 <h3>On the drawing board</h3>
 
 <ul>
-  <li><a href="http://developer.android.com/index.html"> Android Moble App
+  <li><a href="http://developer.android.com/index.html"> Android Mobile App
   Development.</a></li>
 
   <li><a
