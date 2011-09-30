@@ -67,11 +67,6 @@ a:hover {
 	left: 0;
 }
 
-#header h1 {
-	padding: 1em;
-	margin: 0px;
-}
-
 #header a {
 	color: #FAFAFA;
 	text-decoration: none
@@ -135,16 +130,6 @@ a:hover {
 	text-decoration: none;
 }
 
-ul.subjects {
-	padding-left: 0;
-	list-style: none;
-}
-
-ul.pages {
-	padding-left: 2em;
-	list-style: square;
-}
-
 .selected {
 	font-weight: bold;
 }
@@ -176,15 +161,6 @@ ul.pages {
 	padding-left: 2em;
 	padding-right: 2em;
 	vertical-align: top;
-}
-
-.text h2 {
-	color: #003399;
-	margin-top: 1em;
-}
-
-.text h3 {
-	color: #003399;
 }
 
 dt {
