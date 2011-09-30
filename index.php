@@ -1,10 +1,8 @@
 <?php include("includes/header.php"); ?>
 
     <h2>Welcome to the Computer Club at Southern Utah University!</h2>
-    <br /> <br />
 <?php if (time() < strtotime("2011-12-09 00:00 MST")) { ?><h3>We meet every Tuesday at 4:00 PM in ELC 310.</h3><?php } ?>
     <h3>Come see what we are doing this week!</h3>
-    <br /> <br />
     <div style="width: 600px; height: 400px; margin: 0 auto;">
     <embed type="application/x-shockwave-flash"
         src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600"

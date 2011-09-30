@@ -1,7 +1,6 @@
 <?php include("includes/header.php"); ?>
 
     <h2>Frequently Asked Questions</h2>
-<br/><br/><br/>
 <dl>
     <dt>What do I have to know about computers to join?</dt>
     <dd>Nothing! We learn about computers and related subjects at the Computer Club. novice to laureate, all are welcome.</dd>

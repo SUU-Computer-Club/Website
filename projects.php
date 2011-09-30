@@ -1,7 +1,6 @@
 <?php include("includes/header.php"); ?>
 
     <h2>Club Projects</h2>
-<br />
 <h3>Current Projects</h3>
 <ul>
     <li><a href="http://www.maximumpc.com/article/features/maximum_pc_builds_a_multitouch_surface_computer">Multitouch-surface computer</a> (a la Microsoft Surface)</li>

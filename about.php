@@ -1,7 +1,6 @@
 <?php include("includes/header.php"); ?>
 
     <h2>About Us</h2>
-    <br />
     <table class=centered>
         <tr>
             <td class="text" colspan="4">Computer Club Officers</td>
@@ -28,7 +27,6 @@
             <td class="text"><i>Unknown...</i></td>
         </tr>
     </table>
-    <br/>
     <table class=centered>
         <tr>
             <td><img src="images/barker.jpg" width="200" alt=""></td>
