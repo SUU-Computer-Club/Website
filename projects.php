@@ -13,7 +13,7 @@
   <ul>
     <li>Layout</li>
     <li>Art</li>
-    <li>XHTML compliance</li>
+    <li>HTML5 compliance</li>
   </ul></li>
 </ul>
 
