@@ -9,11 +9,11 @@
         <tr>
             <td></td>
             <td><img src="images/Iain_Dalton.png"
-                Width="200" alt=""></td>
+                width="200" alt=""></td>
             <td><img src="images/Brad_Walbeck.png"
-                Width="200" alt=""></td>
+                width="200" alt=""></td>
             <td><img src="images/Jared_Adams.png"
-                Width="200" alt=""></td>
+                width="200" alt=""></td>
         </tr>
         <tr>
             <td></td>
@@ -31,7 +31,7 @@
     <br/>
     <table class=centered>
         <tr>
-            <td><img src="images/barker.jpg" Width="200" alt=""></td>
+            <td><img src="images/barker.jpg" width="200" alt=""></td>
         </tr>
         <tr>
             <td class="text">Dr. Nathan Barker<br />Assistant Professor of Computer
