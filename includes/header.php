@@ -11,7 +11,7 @@
 </head>
 <body>
     <div id="header">
-        <a href="index.php"><img class="fluidimage" src="images/headerpic.png"
+        <a href="index.php"><img src="images/headerpic.png"
             height="100" alt="Computer Club @ SUU">
         </a>
     </div>
