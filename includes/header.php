@@ -4,10 +4,8 @@
 <head>
 <meta charset="utf-8" />
 <title>Computer Club @ SUU</title>
-<link href="images/shortcuticon.jpg" rel="shortcut icon"
-    type="image/x-icon" />
-<link href="stylesheets/public.css" media="all" rel="stylesheet"
-    type="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="images/shortcuticon.jpg"/>
+<link rel="stylesheet" type="text/css" href="stylesheets/public.css"/>
 </head>
 <body>
     <div id="header">
