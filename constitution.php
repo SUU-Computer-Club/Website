@@ -69,8 +69,6 @@
         general election as selected by the membership.
         <ul>
             <li>President
-        </ul>
-        <ul>
             <li>Vice President
         </ul>
         If the president sees fit to create additional positions he may call a
