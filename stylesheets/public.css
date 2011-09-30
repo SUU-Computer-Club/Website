@@ -38,7 +38,7 @@ table,tr,td {
 	line-height: 15px;
 }
 
-a {
+a:link {
 	color: #AA0000;
 }
 
