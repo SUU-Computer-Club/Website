@@ -26,5 +26,6 @@
           <a href="constitution.php">Our Constitution</a><br /> <br />
           <a href="faq.php">Frequently Asked Questions</a><br /> <br />
           <a href="about.php">About the Computer Club</a><br /> <br />
+          <a href="suuforums">Forums</a><br /> <br />
         </td>
         <td id="page">
