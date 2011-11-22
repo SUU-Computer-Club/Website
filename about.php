@@ -6,9 +6,9 @@
     <td class="text" colspan="4">Computer Club Officers</td>
   </tr>
   <tr>
-    <td><img src="images/Iain_Dalton.png" width="200" alt=""></td>
-    <td><img src="images/Brad_Walbeck.png" width="200" alt=""></td>
-    <td><img src="images/Jared_Adams.png" width="200" alt=""></td>
+    <td><img src="images/people/Iain_Dalton.png" width="200" alt=""></td>
+    <td><img src="images/people/Brad_Walbeck.png" width="200" alt=""></td>
+    <td><img src="images/people/unknown.png" width="200" alt=""></td>
   </tr>
   <tr>
     <td class="text">Iain Dalton<br />
