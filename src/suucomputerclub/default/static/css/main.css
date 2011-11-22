@@ -1,0 +1,168 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	background: #f7f7f7 url(/static/images/pattern_bg.png);
+}
+
+ol {
+	list-style-type: upper-roman;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 5px;
+}
+
+h2, h3 {
+	color: #555;
+}
+
+p {
+	font-size: 14px;
+	margin: 15px;
+	text-align: justify;
+}
+
+a {
+	color: #990000;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #FDD;
+}
+
+#topper {
+	width: 100%;
+	height: 40px;
+	padding: 0px;
+	margin: 0px;
+	top: 0px;
+	position: fixed;
+	color: #FFFFFF;
+	text-shadow: 2px 2px 2px #000;
+	z-index: 100;
+}
+
+#topper-links {
+	width: 980px;
+	margin: 0px auto;
+	height: 30px;
+	padding: 5px 10px;
+	/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#2F2727), to(#990000));
+	  
+	/* Safari 5.1, Chrome 10+ */
+	background: -webkit-linear-gradient(top, #990000, #2F2727);
+	  
+	/* Firefox 3.6+ */
+	background: -moz-linear-gradient(top, #990000, #2F2727);
+	  
+	/* IE 10 */
+	background: -ms-linear-gradient(top, #990000, #2F2727);
+	  
+	/* Opera 11.10+ */
+	background: -o-linear-gradient(top, #990000, #2F2727);
+	
+	background-color: #000000;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.796875) 0px 0px 8px;
+	box-shadow: rgba(0, 0, 0, 0.796875) 0px 0px 8px;
+}
+
+#topper-links a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	color: #CCC;
+	padding: 5px;
+	border-bottom: 3px solid #000;
+	background-color: transparent;
+}
+
+#topper-links a:hover {
+	color: #FFF;
+	border-color: #990000;
+}
+
+#body-container {
+	width: 950px;
+	background-color: #FFF;
+	padding: 10px 25px;
+	margin: 40px auto 25px auto;
+	
+	-webkit-box-shadow: rgba(0, 0, 0, 0.796875) 0px 0px 8px;
+	box-shadow: rgba(0, 0, 0, 0.796875) 0px 0px 8px;
+}
+
+#content {
+	padding: 20px;
+	color: #000000;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+
+.content-left {
+	float: left;
+}
+
+.content-right {
+	float: right;
+}
+
+.content-block {
+	background-color: #FFF9F9;
+	border: 1px dashed #CCC;
+	padding: 10px;
+}
+
+.content-block-small {
+	margin-top: 10px;
+	background-color: #FFF9F9;
+	width: 448px;
+	border: 1px dashed #CCC;
+}
+
+#header {
+}
+
+#logo {
+	border: 1px solid #DDD;
+	width: 948px;
+	height: 222px;
+	background: url(/static/images/cc_logo.png);
+}
+
+#menu {
+	margin: 5px 0px;
+	padding: 10px 20px;
+	background-color: #cccccc;
+}
+
+#footer {
+	color: #AAA;
+	font-size: 10px;
+	font-family: monospace;
+	padding: 5px;
+}
+
+.about-person {
+	font-size: 12px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.about-person p {
+	font-size: 14px;
+	text-align: left;
+}
+
+.about-person img {
+	width: 150px;
+	height: 200px;
+	background-color: #FFFFFF;
+	border: 1px solid #CCC;
+	padding: 4px;
+	float: left;
+	margin-right: 10px;
+}

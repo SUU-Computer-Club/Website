@@ -1,0 +1,31 @@
+{% if images %}
+<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/msg.css">
+<div id="msg_slideshow" class="msg_slideshow">
+	<div id="msg_wrapper" class="msg_wrapper">
+		</div>
+	<div id="msg_controls" class="msg_controls"><!-- right has to animate to 15px, default -110px -->
+		<a href="#" id="msg_grid" class="msg_grid"></a>
+		<a href="#" id="msg_prev" class="msg_prev"></a>
+		<a href="#" id="msg_pause_play" class="msg_pause"></a><!-- has to change to msg_play if paused-->
+		<a href="#" id="msg_next" class="msg_next"></a>
+	</div>
+	<div id="msg_thumbs" class="msg_thumbs"><!-- top has to animate to 0px, default -230px -->
+		<div class="msg_thumb_wrapper">
+		{% for image in images %}
+			<a href="#"><img src="{{ STATIC_URL }}{{ image.thumb }}" alt="{{ STATIC_URL }}{{ image.std }}"/></a>
+			{% if forloop.counter|divisibleby:"6" %}
+		</div>
+		<div class="msg_thumb_wrapper" style="display:none;">
+			{% endif %}
+		{% endfor %}
+		</div>
+		<a href="#" id="msg_thumb_next" class="msg_thumb_next"></a>
+		<a href="#" id="msg_thumb_prev" class="msg_thumb_prev"></a>
+		<a href="#" id="msg_thumb_close" class="msg_thumb_close"></a>
+		<span class="msg_loading"></span><!-- show when next thumb wrapper loading -->
+	</div>
+</div>
+<script type="text/javascript" src="{{ STATIC_URL }}js/msg.js"></script>
+{% else %}
+	Sorry, an error occurred with the slide show...
+{% endif %}
