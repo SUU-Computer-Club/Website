@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+{% block title %}~ About{% endblock %}
+{% block content %}
+	<div class="content-block">
+		<h1 align="center">About Us</h1>
+		<p>
+			To find out how we run things, check out the <a href="{% url default:constitution %}">Constitution</a>.
+		</p>
+	</div>
+{% endblock %}
+
+{% block content-left %}
+	<div class="content-block-small">
+		<div class="about-person">
+			<img src="{{ STATIC_URL }}images/ian_dalton.png">
+			<p>
+				<b>Name:</b> Ian Dalton
+			</p>
+			<p>
+				<b>Title:</b> Club Co-President
+			</p>
+			<p>
+				<b>Quote:</b> Quiet. New hair cut this year!!!!
+			</p>
+		</div>
+	</div>
+	<div class="content-block-small">
+		<div class="about-person">
+			<img src="{{ STATIC_URL }}images/no_image.jpg">
+			<p>
+				<b>Name:</b> Jared Adams
+			</p>
+			<p>
+				<b>Title:</b> Vice President
+			</p>
+			<p>
+				<b>Quote:</b> Unknown...
+			</p>
+		</div>
+	</div>
+{% endblock %}
+{% block content-right %}
+	<div class="content-block-small">
+		<div class="about-person">
+			<img src="{{ STATIC_URL }}images/brad_walbeck.png">
+			<p>
+				<b>Name:</b> Brad Walbeck
+			</p>
+			<p>
+				<b>Title:</b> Club Co-President
+			</p>
+			<p>
+				<b>Quote:</b> Wears hats all the time when dry. Hates Apple.
+			</p>
+		</div>
+	</div>
+	<div class="content-block-small">
+		<div class="about-person">
+			<img src="{{ STATIC_URL }}images/barker.jpg">
+			<p>
+				<b>Name:</b> Nathan Barker
+			</p>
+			<p>
+				<b>Title:</b> Assistant Professor of Computer Science, Faculty Advisor
+			</p>
+			<p>
+				<b>Quote:</b> Tells freshmen why their passwords stink.
+			</p>
+		</div>
+	</div>
+{% endblock %}
